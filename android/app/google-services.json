@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34278195385",
+    "project_id": "learnpro-ea360",
+    "storage_bucket": "learnpro-ea360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34278195385:android:1f8e3e0bb8dd0fd69d5b68",
+        "android_client_info": {
+          "package_name": "com.example.basic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOFmETO8vDKof2nf43mPbfqesdpb1Z3WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
